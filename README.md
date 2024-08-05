@@ -6,7 +6,7 @@
 "password": "your_diving_fish_password"
 请将右侧双引号内的内容替换为实际的 diving-fish 用户名和密码
 
-"aqua_path": "D:\\aqua-0.0.46-RELEASE"（示例）
+"aqua_path": "D:\\\\aqua-0.0.46-RELEASE"（示例）
 aqua 路径的填写需要注意以下几点：
 1.该路径下您应当能看到 aqua.jar, data 文件夹等其他内容
 2.反斜杠需要使用双反斜杠防止识别错误
