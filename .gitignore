@@ -1,0 +1,16 @@
+# Build and distribution directories
+build/
+dist/
+src/__pycache__/
+
+# SQLite database files
+*.sqlite
+
+# Configuration files
+adm_config.json
+
+# Documentation files
+README.txt
+
+# PyInstaller spec file
+main.spec
